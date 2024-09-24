@@ -26,7 +26,6 @@ library("unikn")
 
 #Set working directory & API key
 setwd("/Users/rferrel/Documents/Research Methodologies/SFA/Scripts/")
-api <- census_api_key("6b6805b560df241745c776e79e67fb6abe362db3", install = T, overwrite = T) #Install API key
 
 #Color Palette
 cp_SFA <- c("#0D3259","#1F7BE2","#D1E5FA","#E66100","#4B0092")
